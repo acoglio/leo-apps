@@ -1,0 +1,7 @@
+{
+  "program": "hash.aleo",
+  "version": "0.1.0",
+  "description": "Proof of knowledge of a field-to-field Keccak-256 preimage.",
+  "license": "MIT",
+  "dependencies": null
+}
